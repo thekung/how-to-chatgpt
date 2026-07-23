@@ -17,6 +17,6 @@
 
 [Module 8 : ใช้ AI ให้เหมือนมีผู้ช่วยส่วนตัว (Personal AI Assistant)](https://github.com/thekung/how-to-chatgpt/wiki/Module-8-:-%E0%B9%83%E0%B8%8A%E0%B9%89-AI-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7-(Personal-AI-Assistant))
 
-
+[Module 9 : การสร้าง Workflow สำหรับใช้งานกับ ChatGPT](https://github.com/thekung/how-to-chatgpt/wiki/Module-9-:-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-Workflow-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A-ChatGPT)
 
 
